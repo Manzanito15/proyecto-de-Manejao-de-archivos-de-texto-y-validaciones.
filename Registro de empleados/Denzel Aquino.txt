@@ -1,0 +1,12 @@
+===== REGISTRO DE EMPLEADO =====
+----------------------------------------------
+ID:		50
+Nombre:		Denzel
+Apellidos:	Figueroa Aquino
+Dirección:	Villa Farro
+Teléfono:	809-749-3696
+Email:		DenzelAquino@gmailcom
+Cargo:		Ingeniero el software
+Salario:	809-749-3696
+Fecha Ingreso:	14/1/2026
+Género:		Masculino
