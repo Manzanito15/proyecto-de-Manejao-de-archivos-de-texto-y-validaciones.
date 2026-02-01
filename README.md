@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="pr3" src="https://github.com/user-attachments/assets/9ee0c28e-ef87-4082-be31-573e3e492fbf" /># proyecto-de-Manejao-de-archivos-de-texto-y-validaciones.
+(<img width="1366" height="768" alt="pr1" src="https://github.com/user-attachments/assets/2af23bcb-c96b-4865-8730-c7ab2b5f1549" /># proyecto-de-Manejao-de-archivos-de-texto-y-validaciones.
 Este proyecto es una actividad escolar que estuve realizando junto a mi compañera hilary guante que coinsiste el Aplicar el uso de validaciones, mensajes de alerta y manejo de la información a través de archivos de texto y cuadros de dialogo.
 Este proyecto de aplicacion de windows forms .Net que tiene la funcion de cuando se llene los campos poder guardar la informacion el un archivo .txt que se guarda en el dispositvo, el .txt se va a mostrar el formato de tabla con todas las informaciones ya llenadas.
 Las tecnologias que utilizamos fueron: El IDE Microsft Visual Studio 2022 
