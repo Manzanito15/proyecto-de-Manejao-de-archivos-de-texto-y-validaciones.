@@ -5,10 +5,14 @@ La información se muestra en una tabla y puede guardarse en un archivo de texto
 
 ## Tecnologías Utilizadas
 Lenguaje: C#
+
 Framework: Windows Forms
-Base de datos: No aplica (archivo de texto)
-Entorno de desarrollo: Visual Studio
-Imágenes de la ejecución del proyecto
+
+Base de datos: No aplica (archivo de texto).
+
+Entorno de desarrollo: Microsft Visual Studio 2022.
+
+## Imágenes de la ejecución del proyecto
 
 <img width="1366" height="768" alt="pr1" src="https://github.com/user-attachments/assets/2af23bcb-c96b-4865-8730-c7ab2b5f1549" />
 
@@ -25,4 +29,26 @@ Imágenes de la ejecución del proyecto
 ![Programa ya con el boton el boton de confirmar la salida] (<img width="1366" height="768" alt="pr5" src="https://github.com/user-attachments/assets/6534c5fa-3d2b-48ed-b304-6cbb6fa11ae3" />
 )
 
-Hecho por: Yiver David Fousten Martinéz y Hilary Guante Consención.
+## Uso o Ejecución
+
+Abrir el proyecto en Visual Studio.
+
+Ejecutar el programa presionando F5.
+
+Completar los datos del empleado.
+
+Presionar el botón Agregar para registrar la información.
+
+Guardar los datos en un archivo de texto indicando el nombre del archivo.
+
+## Contexto Académico
+
+Nivel: Secundaria Técnico Profesional
+Módulo Formativo: Programación
+Curso / Sección: 5to D1
+Año escolar: 2025 – 2026
+
+## Autores
+
+Yiver David Fousten Martinez.
+Hilary Guante Concesión.
