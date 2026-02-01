@@ -19,4 +19,4 @@ Contexto Académico: Nivel Secundario Técnico Profesional, Modulo Formativo: De
 ![Programa ya con el boton el boton de confirmar la salida] (<img width="1366" height="768" alt="pr5" src="https://github.com/user-attachments/assets/6534c5fa-3d2b-48ed-b304-6cbb6fa11ae3" />
 )
 
-Hecho por:Yiver David Fousten Martinéz y Hilary Guante Consención.
+Hecho por: Yiver David Fousten Martinéz y Hilary Guante Consención.
