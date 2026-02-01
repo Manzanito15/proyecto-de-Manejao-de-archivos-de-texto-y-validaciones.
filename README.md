@@ -1,9 +1,9 @@
-H1<Registro de empleados>
-Descripción
+# Registro de empleados
+## Descripción
 Este proyecto consiste en una aplicación de escritorio desarrollada en C# que permite registrar los datos de empleados como nombre, apellidos, dirección, teléfono, correo electrónico, cargo y salario.
 La información se muestra en una tabla y puede guardarse en un archivo de texto usando un cuadro de diálogo donde el usuario indica el nombre del archivo.
 
-Tecnologías Utilizadas
+## Tecnologías Utilizadas
 Lenguaje: C#
 Framework: Windows Forms
 Base de datos: No aplica (archivo de texto)
