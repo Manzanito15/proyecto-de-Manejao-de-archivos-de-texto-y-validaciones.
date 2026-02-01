@@ -5,7 +5,6 @@ Las tecnologias que utilizamos fueron: El IDE Microsft Visual Studio 2022
 Las herramientas que utilizamos fueron: Aplicacion de windows forms .Net
 El uso o ejecucion: para ejecutar el programa necesitan el IDE Microsft Visual Studio 2022 luego para ejecutar el programa necesitan descarga el programa despues de descargar el programa podras ejecutar el programa el Visual Studio Code 2022.
 Contexto Académico: Nivel Secundario Técnico Profesional, Modulo Formativo: Dessarollo de aplicaciones, Curso: 5D1, Año Escolar: 2025-2026.
-Autores: Yiver David Fousten Martinéz y Hilary Guante Consención.
 
 ![Programa en Aplicacion de windows forms .Net] (<img width="1366" height="768" alt="pr2" src="https://github.com/user-attachments/assets/130177e5-992f-4acf-818a-3a768e20e5e4" />
 )
@@ -19,3 +18,5 @@ Autores: Yiver David Fousten Martinéz y Hilary Guante Consención.
 )
 ![Programa ya con el boton el boton de confirmar la salida] (<img width="1366" height="768" alt="pr5" src="https://github.com/user-attachments/assets/6534c5fa-3d2b-48ed-b304-6cbb6fa11ae3" />
 )
+
+Hecho por:Yiver David Fousten Martinéz y Hilary Guante Consención.
