@@ -1,16 +1,16 @@
-![Nuestro proyecto de registro de empleado.] (<img width="1366" height="768" alt="pr1" src="https://github.com/user-attachments/assets/2af23bcb-c96b-4865-8730-c7ab2b5f1549" />
+H1<Registro de Empleados\>
+Descripción
+Este proyecto consiste en una aplicación de escritorio desarrollada en C# que permite registrar los datos de empleados como nombre, apellidos, dirección, teléfono, correo electrónico, cargo y salario.
+La información se muestra en una tabla y puede guardarse en un archivo de texto usando un cuadro de diálogo donde el usuario indica el nombre del archivo.
 
-Este proyecto es una actividad escolar que estuve realizando junto a mi compañera hilary guante que coinsiste el Aplicar el uso de validaciones, mensajes de alerta y manejo de la información a través de archivos de texto y cuadros de dialogo.
+Tecnologías Utilizadas
+Lenguaje: C#
+Framework: Windows Forms
+Base de datos: No aplica (archivo de texto)
+Entorno de desarrollo: Visual Studio
+Imágenes de la ejecución del proyecto
 
-Este proyecto de aplicacion de windows forms .Net que tiene la funcion de cuando se llene los campos poder guardar la informacion el un archivo .txt que se guarda en el dispositvo, el .txt se va a mostrar el formato de tabla con todas las informaciones ya llenadas.
-
-Las tecnologias que utilizamos fueron: El IDE Microsft Visual Studio 2022.
-
-Las herramientas que utilizamos fueron: Aplicacion de windows forms .Net.
-
-El uso o ejecucion: para ejecutar el programa necesitan el IDE Microsft Visual Studio 2022 luego para ejecutar el programa necesitan descarga el programa despues de descargar el programa podras ejecutar el programa el Visual Studio Code 2022.
-
-Contexto Académico: Nivel Secundario Técnico Profesional, Modulo Formativo: Dessarollo de aplicaciones, Curso: 5D1, Año Escolar: 2025-2026.
+<img width="1366" height="768" alt="pr1" src="https://github.com/user-attachments/assets/2af23bcb-c96b-4865-8730-c7ab2b5f1549" />
 
 ![Programa en Aplicacion de windows forms .Net] (<img width="1366" height="768" alt="pr2" src="https://github.com/user-attachments/assets/130177e5-992f-4acf-818a-3a768e20e5e4" />
 )
