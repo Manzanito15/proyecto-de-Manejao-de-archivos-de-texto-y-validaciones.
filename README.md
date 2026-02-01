@@ -1,4 +1,4 @@
-# Npmbre del proyecto: Registro de empleados.
+# Nombre del proyecto: Registro de empleados.
 ## Descripción
 #### Este proyecto consiste en una aplicación de escritorio desarrollada en C# que permite registrar los datos de empleados como nombre, apellidos, dirección, teléfono, correo electrónico, cargo y salario.
 
