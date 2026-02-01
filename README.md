@@ -58,6 +58,6 @@ Año escolar: 2025 – 2026.
 
 ## Autores
 
-#### Yiver David Fousten Martinez.
+### Yiver David Fousten Martinez.
 
-#### Hilary Guante Concesión.
+### Hilary Guante Concesión.
